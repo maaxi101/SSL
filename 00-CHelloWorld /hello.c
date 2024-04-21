@@ -2,6 +2,6 @@
 
 int main() {
     printf("Hola, mundo\n");
-    printf("No te hagas el loco que dentro de poco dominamos el planeta \n");
+    printf(" Te dominaremos dentro de poco \n");
     return 0;
 }
